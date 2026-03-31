@@ -43,7 +43,7 @@ plot(w/pi,abs(h),'ms');
 ```
 
 ## OUTPUT:
-<img width="831" height="735" alt="DSP EXP6" src="https://github.com/user-attachments/assets/fd6d55ec-96c9-4548-bcb1-45516cc5a3ea" />
+<img width="847" height="740" alt="DSP EXP5" src="https://github.com/user-attachments/assets/02d0c2a2-16c2-44ae-979c-192a9f91afb5" />
 
 
 ## RESULT:
