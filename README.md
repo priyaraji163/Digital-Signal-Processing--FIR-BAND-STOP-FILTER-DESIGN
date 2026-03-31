@@ -47,5 +47,4 @@ plot(w/pi,abs(h),'ms');
 
 
 ## RESULT:
-![WhatsApp Image 2026-03-30 at 11 39 22 AM](https://github.com/user-attachments/assets/bef35d79-d1b4-4dd8-8fcb-d485dccd160e)
-
+![WhatsApp Image 2026-03-30 at 11 44 12 AM](https://github.com/user-attachments/assets/4902744f-71b3-441d-98ec-582194ac4411)
